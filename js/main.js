@@ -12,7 +12,7 @@ button.addEventListener('click', fuction(e){
     alert("button was clicked")
 });**/
 
-$("#my-button").on("click"
+$('#my-button').on("click",
       function(){
       alert("you clicked")
     })
